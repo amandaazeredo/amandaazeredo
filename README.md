@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Java.
-- 💻 Studying Database (mySQL).
+- 💻 Studying Database (SQL).
 - 🍃 I’m starting to use Spring Boot.
 - 🤖 I’ve already studied some HTML and JavaScript but I’m still improving at it.
 
