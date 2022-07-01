@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Java.
 - 💻 Studying Database (mySQL).
-- 🎈 I’m starting to use Spring Boot.
+- 🍃 I’m starting to use Spring Boot.
 - 🤖 I’ve already studied some HTML and JavaScript but I’m still improving at it.
 
 <div align="center">
