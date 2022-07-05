@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning Java.
 - 💻 Studying Database (SQL).
-- 🍃 I’m starting to use Spring Boot.
 - 🤖 I’ve already studied some HTML and JavaScript but I’m still improving at it.
 
 <div align="center">
@@ -15,7 +14,6 @@
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
   ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
