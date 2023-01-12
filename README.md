@@ -4,10 +4,7 @@
 - 💻 Studying Database (SQL).
 - 🤖 I’ve already studied some HTML and JavaScript but I’m still improving at it.
 
-<div align="center">
-  <a href="https://github.com/amandaazeredo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaazeredo&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   <br>
 
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
