@@ -1,10 +1,3 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning Java.
-- 💻 Studying Database (SQL).
-- 🤖 I’ve already studied some HTML and JavaScript but I’m still improving at it.
-
-
   <br>
 
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
